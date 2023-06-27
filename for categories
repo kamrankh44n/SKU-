@@ -1,0 +1,4 @@
+
+Categories:<b>"{% for collection in product.collections %}
+  {{ collection.title }}
+{% endfor %}"</b>
